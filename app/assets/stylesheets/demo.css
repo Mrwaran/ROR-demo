@@ -1,0 +1,100 @@
+.box{
+    color: violet;
+  }
+  .logo{
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    margin-top: 10px;
+  }
+  .container ul{
+    display: flex;
+    margin-left: 60%;
+    margin-top: -6%;
+  }
+  .container ul li{
+    padding: 30px;
+    list-style: none;
+  }
+  .container ul li a{
+    text-decoration: none;
+    color: violet;
+  }
+
+  .container ul li a:hover{
+    color: red;
+  }
+  .m1:hover {
+    color: blueviolet;
+    font-size:60px;
+    
+  }
+  .m1 {
+    border: 1px dotted grey;
+  }
+  .sub a{
+    color:blue;
+    text-decoration: none ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .m2:hover{
+    color: blueviolet;
+    font-size:60px;
+    
+  }
+  .m2{
+    border: 1px dotted grey
+  }
+  .sub a{
+    color:blue;
+    text-decoration: none ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .m3:hover{
+    color: blueviolet;
+    font-size:60px;
+    
+  }
+  .m3{
+    border: 1px dotted grey
+  }
+  sub a{
+    color:blue;
+    text-decoration: none ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .a{
+    color:black;
+    text-align: center;
+  }
+  .b{
+    color: black;
+    text-align: center;
+    size: :20px;
+  }
+  .c{
+    color:black
+    text-align: center;
+  }
+  .d{
+    color:brown;
+    text-align: center;
+  }
+  .a1{
+    align-items: center;
+    size-adjust: 40%;
+    margin-left: 500px;
+    padding-right: 70px;
+    margin-right: 350px;
+  }
+  .b1{
+    align-items: center;
+    size-adjust: 40%;
+    margin-left: 500px;
+    margin-right: 70px;
+  }
+  .a{
+    size:10 px;
+  }
+
